@@ -1,0 +1,107 @@
+{
+  "auth": {
+    "signIn": {
+      "title": "Bienvenido de nuevo",
+      "description": "Ingresa tu correo electrónico y contraseña para iniciar sesión",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "Ingresa tu correo electrónico",
+      "passwordLabel": "Contraseña",
+      "passwordPlaceholder": "Ingresa tu contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "submit": "Iniciar sesión",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUp": "Regístrate"
+    },
+    "signUp": {
+      "title": "Crear una cuenta",
+      "description": "Ingresa tu información para crear una cuenta",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Ingresa tu nombre",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "Ingresa tu correo electrónico",
+      "passwordLabel": "Contraseña",
+      "passwordPlaceholder": "Crea una contraseña",
+      "confirmPasswordLabel": "Confirmar contraseña",
+      "confirmPasswordPlaceholder": "Confirma tu contraseña",
+      "submit": "Crear cuenta",
+      "haveAccount": "¿Ya tienes una cuenta?",
+      "signIn": "Inicia sesión"
+    }
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "welcome": "¡Bienvenido de nuevo! Aquí tienes un resumen de tu cuenta.",
+    "stats": {
+      "totalRevenue": "Ingresos totales",
+      "subscriptions": "Suscripciones",
+      "activeUsers": "Usuarios activos",
+      "newCustomers": "Nuevos clientes",
+      "fromLastMonth": "desde el mes pasado"
+    },
+    "overview": {
+      "title": "Resumen",
+      "revenue": "Ingresos"
+    },
+    "recentActivity": {
+      "title": "Actividad reciente"
+    }
+  },
+  "profile": {
+    "title": "Perfil",
+    "description": "Administra la configuración y preferencias de tu cuenta.",
+    "personalInfo": {
+      "title": "Información personal",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Ingresa tu nombre",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "Ingresa tu correo electrónico",
+      "bioLabel": "Biografía",
+      "bioPlaceholder": "Cuéntanos un poco sobre ti",
+      "bioDescription": "Breve descripción para tu perfil. Máximo 160 caracteres.",
+      "submit": "Actualizar perfil"
+    }
+  },
+  "settings": {
+    "title": "Configuración",
+    "description": "Configura las preferencias de tu aplicación.",
+    "general": {
+      "title": "Configuración general",
+      "notifications": {
+        "title": "Notificaciones por correo",
+        "description": "Recibe notificaciones por correo cuando ocurran eventos importantes."
+      },
+      "language": {
+        "title": "Idioma",
+        "description": "Selecciona tu idioma preferido para el panel.",
+        "options": {
+          "en": "Inglés",
+          "es": "Español",
+          "fr": "Francés",
+          "de": "Alemán"
+        }
+      },
+      "theme": {
+        "title": "Tema",
+        "description": "Elige tu apariencia preferida.",
+        "options": {
+          "light": "Claro",
+          "dark": "Oscuro",
+          "system": "Sistema"
+        }
+      },
+      "submit": "Guardar configuración"
+    }
+  },
+  "common": {
+    "backToHome": "Volver al inicio",
+    "loading": "Cargando...",
+    "error": "Algo salió mal. Por favor, inténtalo de nuevo.",
+    "success": "¡Éxito!",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "close": "Cerrar"
+  }
+}

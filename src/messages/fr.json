@@ -1,0 +1,107 @@
+{
+  "auth": {
+    "signIn": {
+      "title": "Bienvenue",
+      "description": "Entrez votre email et mot de passe pour vous connecter",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Entrez votre email",
+      "passwordLabel": "Mot de passe",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "forgotPassword": "Mot de passe oublié ?",
+      "submit": "Se connecter",
+      "noAccount": "Vous n'avez pas de compte ?",
+      "signUp": "S'inscrire"
+    },
+    "signUp": {
+      "title": "Créer un compte",
+      "description": "Entrez vos informations pour créer un compte",
+      "nameLabel": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Entrez votre email",
+      "passwordLabel": "Mot de passe",
+      "passwordPlaceholder": "Créez un mot de passe",
+      "confirmPasswordLabel": "Confirmer le mot de passe",
+      "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+      "submit": "Créer un compte",
+      "haveAccount": "Vous avez déjà un compte ?",
+      "signIn": "Se connecter"
+    }
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue ! Voici un aperçu de votre compte.",
+    "stats": {
+      "totalRevenue": "Revenu total",
+      "subscriptions": "Abonnements",
+      "activeUsers": "Utilisateurs actifs",
+      "newCustomers": "Nouveaux clients",
+      "fromLastMonth": "depuis le mois dernier"
+    },
+    "overview": {
+      "title": "Aperçu",
+      "revenue": "Revenu"
+    },
+    "recentActivity": {
+      "title": "Activité récente"
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "description": "Gérez les paramètres et préférences de votre compte.",
+    "personalInfo": {
+      "title": "Informations personnelles",
+      "nameLabel": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Entrez votre email",
+      "bioLabel": "Bio",
+      "bioPlaceholder": "Parlez-nous un peu de vous",
+      "bioDescription": "Brève description pour votre profil. Maximum 160 caractères.",
+      "submit": "Mettre à jour le profil"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "description": "Configurez les préférences de votre application.",
+    "general": {
+      "title": "Paramètres généraux",
+      "notifications": {
+        "title": "Notifications par email",
+        "description": "Recevez des notifications par email lors d'événements importants."
+      },
+      "language": {
+        "title": "Langue",
+        "description": "Sélectionnez votre langue préférée pour le tableau de bord.",
+        "options": {
+          "en": "Anglais",
+          "es": "Espagnol",
+          "fr": "Français",
+          "de": "Allemand"
+        }
+      },
+      "theme": {
+        "title": "Thème",
+        "description": "Choisissez votre apparence préférée.",
+        "options": {
+          "light": "Clair",
+          "dark": "Sombre",
+          "system": "Système"
+        }
+      },
+      "submit": "Enregistrer les paramètres"
+    }
+  },
+  "common": {
+    "backToHome": "Retour à l'accueil",
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "success": "Succès !",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "close": "Fermer"
+  }
+}

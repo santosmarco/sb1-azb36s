@@ -1,0 +1,107 @@
+{
+  "auth": {
+    "signIn": {
+      "title": "Welcome back",
+      "description": "Enter your email and password to sign in to your account",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter your email",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "forgotPassword": "Forgot password?",
+      "submit": "Sign in",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up"
+    },
+    "signUp": {
+      "title": "Create an account",
+      "description": "Enter your information below to create your account",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter your email",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Create a password",
+      "confirmPasswordLabel": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm your password",
+      "submit": "Create account",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back! Here's an overview of your account.",
+    "stats": {
+      "totalRevenue": "Total Revenue",
+      "subscriptions": "Subscriptions",
+      "activeUsers": "Active Users",
+      "newCustomers": "New Customers",
+      "fromLastMonth": "from last month"
+    },
+    "overview": {
+      "title": "Overview",
+      "revenue": "Revenue"
+    },
+    "recentActivity": {
+      "title": "Recent Activity"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "description": "Manage your account settings and preferences.",
+    "personalInfo": {
+      "title": "Personal Information",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter your email",
+      "bioLabel": "Bio",
+      "bioPlaceholder": "Tell us a little bit about yourself",
+      "bioDescription": "Brief description for your profile. Maximum 160 characters.",
+      "submit": "Update profile"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "description": "Configure your application preferences.",
+    "general": {
+      "title": "General Settings",
+      "notifications": {
+        "title": "Email Notifications",
+        "description": "Receive email notifications when important events occur."
+      },
+      "language": {
+        "title": "Language",
+        "description": "Select your preferred language for the dashboard.",
+        "options": {
+          "en": "English",
+          "es": "Spanish",
+          "fr": "French",
+          "de": "German"
+        }
+      },
+      "theme": {
+        "title": "Theme",
+        "description": "Choose your preferred theme appearance.",
+        "options": {
+          "light": "Light",
+          "dark": "Dark",
+          "system": "System"
+        }
+      },
+      "submit": "Save settings"
+    }
+  },
+  "common": {
+    "backToHome": "Back to home",
+    "loading": "Loading...",
+    "error": "Something went wrong. Please try again.",
+    "success": "Success!",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close"
+  }
+}
